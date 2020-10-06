@@ -10,7 +10,6 @@ matplotlib
 IPython (display module)
 collections
 itertools (chain module)
-
 time
 
 2. Project Motivation
