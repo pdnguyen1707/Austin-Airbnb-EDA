@@ -1,19 +1,19 @@
 # Austin AirBnB Exploratory Data Analysis
+Project 1: Utilizing AirBnB data to breakdown the insights of rental market in Austin
 
-Project 1: Using AirBnB data to understand the homeowners' market in Austin
-1. Installations
-This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
+1. This project was written in Python3 languague on Jupyter Notebook. The following packages have installed to support the project:
 
-numpy
-pandas
-matplotlib
-IPython (display module)
-collections
-itertools (chain module)
-time
+- numpy
+- pandas
+- matplotlib
+- IPython
+- time
 
 2. Project Motivation
-This project is part of Term 2's first module (Introduction to Data Science) requirement, which is to use the CRISP-DM process to produce a data project. I utilised AirBnB data on Austin homes to produce my project, which used the perspective of a Seattle home-owner. The objective is to offer a great experience for my guests while maximizing revenues. Thus, I explored ways to achieve this objective by using data to answer the following three questions:
+
+AirBnB provides excellent platform for the the homeowners become hosts at ease. With almost a decade, the team has accumulated a huge amount of data from previous listing. By breaking down the chunk of historical data, the outcome can help Austin homeowners recognize the existing trends of rental Airbnb in the region. From that, the hosts can offer great experience for the guests while maximizing revenues. 
+
+There are many questions can be asked from data, the 3 following questions would be essential for every host when it comes to their first time listing:
 
 a. How are prices are changed seasonally in Austin?
 b. What are the most common amenities that local hosts offer?
