@@ -18,7 +18,7 @@ There are many questions can be asked from data, the 3 following questions would
 a. How are prices are changed seasonally in Austin?
 b. What are the most common amenities that local hosts offer?
 c. What types of property more likely yield profit to the rental investors?
-
+ 
 3. File Descriptions
 This repo contains:
 - Three original datasets: listing, calendar, reviews from AirBnB
