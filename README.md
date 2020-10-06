@@ -1,4 +1,4 @@
-# Austin AirBnB EDA
+# Austin AirBnB Exploratory Data Analysis
 
 Project 1: Using AirBnB data to understand the homeowners' market in Austin
 1. Installations
