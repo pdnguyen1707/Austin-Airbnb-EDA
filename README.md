@@ -15,9 +15,9 @@ AirBnB provides excellent platform for the the homeowners become hosts at ease. 
 
 There are many questions can be asked from data, the 3 following questions would be essential for every host when it comes to their first time listing:
 
-a. How are prices are changed seasonally in Austin?
-b. What are the most common amenities that local hosts offer?
-c. What types of property more likely yield profit to the rental investors?
+- How are prices are changed seasonally in Austin?
+- What are the most common amenities that local hosts offer?
+- What types of property more likely yield profit to the rental investors?
  
 3. File Descriptions
 This repo contains:
