@@ -24,5 +24,9 @@ This repo contains:
 - Three original datasets: listing, calendar, reviews from AirBnB
 - EDA notebook to explore Austin rental data
 
+4. Findings
+
+The workthrough and outcome are discussed in this blog post [https://medium.com/how-austin-airbnb-hosts-can-earn-extra-from-public/i-looked-at-airbnb-data-to-see-how-homeowners-could-offer-a-great-guest-experience-and-maximize-139d04448c7a]
+
 4. Licensing, Authors, Acknowledgements, etc.
 All Austin AirBnB data was obtained from public Airbnb database.
